@@ -92,7 +92,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -------------------------------------------------------------------------------
-`./utils/cls_transforms.py`, `./custom_transforms.py` is based on PyTorch source code
+`./utils/cls_transforms.py`, `./utils/custom_transforms.py` is based on PyTorch source code
 
 From PyTorch:
 
