@@ -72,7 +72,7 @@ conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 "llvm-openm
 
 - Install `gcc_linux-64==12.2.0`, `gxx_linux-64==12.2.0` and other necessary libraries:
 ```bash
-conda install -c conda-forge gcc_linux-64==12.2.0 gxx_linux-64==12.2.0 torchmetrics torchinfo tensorboard einops scipy yacs pandas timm imageio iopath
+conda install -c conda-forge gcc_linux-64==12.2.0 gxx_linux-64==12.2.0 torchmetrics torchinfo tensorboard einops scipy yacs pandas timm imageio iopath psutil
 ```
 
 *Make sure the versions for `gcc_linux-64` and `gxx_linux-64` are **exactly 12.2.0.***
