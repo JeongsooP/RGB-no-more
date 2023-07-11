@@ -33,7 +33,7 @@ Pretrained models are available as:
 | JPEG-Ti  | 75.1 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetDCTViTTi_ep300_75.1.pth) | 
 | ViT-Ti  | 74.1 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetRGBViTTi_ep300_74.1.pth) | 
 | JPEG-S | 76.5 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetDCTViTS_ep90_76.5.pth) |
-| ViT-S | 76.6 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetRGBViTS_ep90_76.5.pth) |
+| ViT-S | 76.5 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetRGBViTS_ep90_76.5.pth) |
 | SwinV2-T <br>(DCT, window=8) | 79.4 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetSwinDCT_ep300_79.4.pth) |
 | SwinV2-T <br>(RGB, window=8) | 79.0 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetSwinRGB_ep300_79.0.pth) |
 
