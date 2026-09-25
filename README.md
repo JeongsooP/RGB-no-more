@@ -30,16 +30,16 @@ Pretrained models are available as:
 
 | Model  | Val Acc (%) | Link |
 | --- | --- | --- |
-| JPEG-Ti  | 75.1 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetDCTViTTi_ep300_75.1.pth) | 
-| ViT-Ti  | 74.1 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetRGBViTTi_ep300_74.1.pth) | 
-| JPEG-S | 76.5 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetDCTViTS_ep90_76.5.pth) |
-| ViT-S | 76.5 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetRGBViTS_ep90_76.5.pth) |
-| SwinV2-T <br>(DCT, window=8) | 79.4 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetSwinDCT_ep300_79.4.pth) |
-| SwinV2-T <br>(RGB, window=8) | 79.0 | [link](http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetSwinRGB_ep300_79.0.pth) |
+| JPEG-Ti  | 75.1 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetDCTViTTi_ep300_75.1.pth) | 
+| ViT-Ti  | 74.1 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetRGBViTTi_ep300_74.1.pth) | 
+| JPEG-S | 76.5 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetDCTViTS_ep90_76.5.pth) |
+| ViT-S | 76.5 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetRGBViTS_ep90_76.5.pth) |
+| SwinV2-T <br>(DCT, window=8) | 79.4 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetSwinDCT_ep300_79.4.pth) |
+| SwinV2-T <br>(RGB, window=8) | 79.0 | [link](https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetSwinRGB_ep300_79.0.pth) |
 
 It is possible to download using `wget` using `wget [link]`. One example:
 
-`wget http://www-personal.umich.edu/~jespark/rgbnomore-2023/imgnetDCTViTTi_ep300_75.1.pth`
+`wget https://github.com/JeongsooP/RGB-no-more/releases/download/v1.0-checkpoints/imgnetDCTViTTi_ep300_75.1.pth`
 
 Note: RGB ViT-S is trained on raw ImageNet to reproduce the [recipe by Google](https://arxiv.org/abs/2205.01580). Others are trained on 512x512 resized ImageNet.
 
